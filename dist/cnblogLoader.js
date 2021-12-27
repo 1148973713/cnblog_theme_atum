@@ -5,6 +5,6 @@ window.cnblogLoader({
   defStaticVendor:"https://cdn.jsdelivr.net/gh/cjunn/cnblog_theme_atum/dist/lib/1.0/vendor.js",
   defStaticMain:"https://cdn.jsdelivr.net/gh/cjunn/cnblog_theme_atum/dist/lib/1.0/manifest.js",
   //defStaticSrc:"https://cjunn.gitee.io/blog_theme_atum/releases/",
-  defStaticSrc:"https://1148973713.github.io/cnblog_theme_atum/releases/",
+  defStaticSrc:"https://1148973713.github.io/cnblog_theme_atum/dist/releases/",
   defStaticVer:loaderversion
 })
